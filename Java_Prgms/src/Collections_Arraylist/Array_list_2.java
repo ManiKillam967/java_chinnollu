@@ -8,7 +8,6 @@ public static void main(String[] args)
 {
     
 	ArrayList h1 = new ArrayList();
-	
 	h1.add("baby");
 	h1.add("pull");
 	h1.add("me closer");
