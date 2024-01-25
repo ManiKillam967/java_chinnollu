@@ -6,7 +6,7 @@ public class E2
 {
 public static void main(String[] args) 
 {
-     Scanner s1 =  new Scanner(System.in); 
+    Scanner s1 =  new Scanner(System.in); 
     System.out.println("enter two numbers");
 	int x = s1.nextInt();
     int y = s1.nextInt();
@@ -19,6 +19,5 @@ public static void main(String[] args)
     System.out.println("exception handled");
    }
    System.out.println(res);
-	
 }
 }

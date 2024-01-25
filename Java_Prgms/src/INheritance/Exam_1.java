@@ -1,12 +1,11 @@
 package INheritance;
-
 class A1{
 	public void s() {
 		System.out.println("run 5 kms");
 	}
 
 //	public void t() {
-//		System.out.println("run 20 kmss");
+//		System.out.println("run 20 kms");
 //		
 //	}
 }
@@ -31,6 +30,5 @@ public static void main(String[] args)
 	  f1.s();
 	  A1 f3  = new A1();
 	  //((A2)f3).t();
-	  
-}
+	  }
 }

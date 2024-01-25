@@ -2,6 +2,7 @@
 // INPUTMISMATCH EXCEPTION
 package EXCEptions;
 import java.util.InputMismatchException;
+
 import java.util.Scanner;
 public class E1 
 {
